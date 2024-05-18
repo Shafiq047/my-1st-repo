@@ -3,3 +3,13 @@ div{
     padding: 10px;
     margin-bottom: 10px;
 }
+ul{
+    /* font-size: medium; */
+    /* background-color: blue; */
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bolder;
+    
+    
+}
